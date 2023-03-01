@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cdata.jdbc.saperp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Program Files/CData/CData JDBC Driver for SAP ERP 2022/lib/cdata.jdbc.saperp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Desktop/JCo_64bit (3)/JCo_64bit (3)/JCo_64bit/JCo 64bit/sapjco3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
